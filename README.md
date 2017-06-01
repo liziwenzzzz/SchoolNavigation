@@ -1,0 +1,2 @@
+# SchoolNavigation
+基于MFC的一个程序，一个简易的地大导航程序，使用的算法是图的最短路径dijkstra算法
