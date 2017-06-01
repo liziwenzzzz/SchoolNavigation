@@ -1,0 +1,19 @@
+﻿生成启动时间为 2015/12/25 21:02:59。
+     1>项目“F:\大二编程MFC\校园导航改进版\校园导航\校园导航.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\校园导航.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "校园导航View.cpp"
+         校园导航View.cpp
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\大二编程MFC\校园导航改进版\Debug\校园导航.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"F:\大二编程MFC\校园导航改进版\Debug\校园导航.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\大二编程MFC\校园导航改进版\Debug\校园导航.lib" /MACHINE:X86 "Debug\校园导航.res"
+         Debug\FindPath.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         "Debug\校园导航.obj"
+         "Debug\校园导航Doc.obj"
+         "Debug\校园导航View.obj"
+         校园导航.vcxproj -> F:\大二编程MFC\校园导航改进版\Debug\校园导航.exe
+     1>已完成生成项目“F:\大二编程MFC\校园导航改进版\校园导航\校园导航.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.12
